@@ -1,2 +1,2 @@
 Write-Output "Test."
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+Set-ExecutionPolicy -ExecutionPolicy AllSigned -Scope CurrentUser
